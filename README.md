@@ -1,4 +1,4 @@
-<h1 align='center'> Hi there 👋, I'm FERDIZ-afk  👩‍💻 </h1>
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> **Hello world!** &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 <p align='center'>
   I come from <b>Indonesia</b> I like a food called <b>meatball</b> 
