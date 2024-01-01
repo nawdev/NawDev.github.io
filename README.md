@@ -13,9 +13,9 @@
   <em>
     Saya adalah seorang pemula yang <b>Yang terjun ke dunia pemugraman </b> Untuk Mengisi Kekosongan</a>.  
     Masih pemula dalam<b>Programing</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> dan <b>Pengemar Anime</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">  Saya  <b>Masih pemula</b>
-    dan saya yakin bahwa saya <b>Pasti Bisa</b> untuk menjadi <b>Lebih Baik</b> to 
-    <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
-    <b>excel.</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">
+    dan saya yakin bahwa saya <b>Pasti Bisa</b> untuk menjadi <b>Lebih Baik</b> Untuk
+    <b>Berkembang</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">dan 
+    <b>unggul.</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">
   </em>  
 </p>
 
