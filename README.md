@@ -21,13 +21,12 @@
 
 <br>
 
-- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" width="20px" /> I’m *currently* **sleeping** 😴 or *working* on my **laptop** 👨‍💻
-- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif" width="20px" /> I’m *currently learning* how to **flex README** on my **profile** 💪.
-- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/headbang.gif" width="20px" /> I’m *looking to collaborate* on **python 🐍 projects**.
-- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20px" /> I’m *looking* for *help* with **wifi connection 🌐**
-- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/happy.gif" width="20px" /> *Ask me* about **why do I think aliens 👽 exist.**
+- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" width="20px" /> Saya *mungkin sedang* **tidur** 😴 atau *menonton anime* di **handphone** saya 🗿
+- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/gandalf_parrot.gif" width="20px" /> saya *sedang mengerjakan* tentang **rest api** 💪.
+- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/headbang.gif" width="20px" /> saya *ingin bisa membuat project* dari **Next.js**.
+- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20px" /> Saya *dibantu* oleh *chatgpt* untuk **membuat project saya 😅**
+- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/happy.gif" width="20px" /> *tanyakan saya* kenapa **saya begitu malas 🤫**
 - <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="20px" /> **Pronouns:** [*He/Him*](https://pronoun.is/he) 🧔
-- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="20px" /> **Fun fact:** My *smartness* 💡 lies in my *laziness* 😴
-
+- <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="20px" /> **Fakta menyenangkan:** Saya *pintar* 💡 terletak pada *kemalasan*ku 😴
 
 <br>
