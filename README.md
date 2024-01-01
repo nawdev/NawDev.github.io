@@ -1,18 +1,13 @@
 # iPutzx&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
 
-
-<!-- 
-    &nbsp; [![HitCount](http://hits.dwyl.com/TheDudeThatCode/TheDudeThatCode.svg)](http://hits.dwyl.com/TheDudeThatCode/TheDudeThatCode) 
--->
-
-<img align="right" alt="PC GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="190" />
+<img align="right" alt="PC GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="250" />
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> **Hello world!** &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 <p>
   <em>
-    Saya adalah seorang pemula yang <b>Yang terjun ke dunia pemograman </b> Untuk Mengisi Kekosongan</a>.  
-    Masih belajar dalam<b>Programing</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> dan <b>Pengemar Anime</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">  <b>Saya yakin</b>
+    Saya adalah seorang pemula yang <b>Yang terjun ke dunia pemrograman</b> Untuk Mengisi Kekosongan</a>.  
+    Masih belajar dalam<b>Programing</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> dan <b>Penggemar Anime</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">  <b>Saya yakin</b>
      bahwa saya <b>Pasti Bisa</b> untuk menjadi <b>Lebih Baik</b> Untuk
     <b>Berkembang</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">dan 
     <b>unggul.</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">
@@ -35,12 +30,8 @@
   <br>
   <a href="https://instagram.com/ryzen_vermillion"><img alt="Cute Count" src="https://count.getloli.com/get/@NawDev?theme="/></a>
 </details>
-</div>
-
-
-
 <br>
-<!--p><img align="center" width=100% src="https://github-readme-stats.vercel.app/api/top-langs?username=FERDIZ-afk&show_icons=true&locale=en&layout=compact&theme=radical" alt="FERDIZ-afk" /></p-->
+
 <p><img align="center" width=100% src="https://github-readme-stats.vercel.app/api/top-langs/?username=FERDIZ-afk&show_icons=true&theme=radical" alt="FERDIZ-afk" /></p>
 
 <p>&nbsp;<img align="center" width=100% src="https://github-readme-stats.vercel.app/api?username=FERDIZ-afk&show_icons=true&locale=en&theme=radical" alt="FERDIZ-afk" /></p>
