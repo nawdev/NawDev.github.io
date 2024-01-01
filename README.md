@@ -33,6 +33,6 @@
 <details open>
 <summary><b>←Total Profile Visitors ↓</b></summary>
 <br>
-<a href="https://instagram.com/ryzen_vermillion "><img alt="Cute Count" src="https://count.getloli.com/get/@ShirokamiRyzen?theme=rule34"/></a>
+<a href="https://instagram.com/ryzen_vermillion "><img alt="Cute Count" src="https://count.getloli.com/get/@NawDev?theme=rule34"/></a>
 </details>
 </div>
